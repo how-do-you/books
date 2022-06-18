@@ -1,0 +1,3 @@
+all = [
+    { cmd="mdbook serve --port 12345", working_dir="How do you Python" }
+]

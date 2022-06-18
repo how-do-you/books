@@ -1,0 +1,9 @@
+[submodule "How do you Rust"]
+	path = How do you Rust
+	url = git@github.com:how-do-you/books-how-do-you-rust.git
+[submodule "How do you Tauri"]
+	path = How do you Tauri
+	url = git@github.com:how-do-you/books-how-do-you-tauri.git
+[submodule "How do you Python"]
+	path = How do you Python
+	url = git@github.com:how-do-you/books-how-do-you-python.git
